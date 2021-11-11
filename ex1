@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Nov 11 20:59:31 2021
+
+@author: janaki
+"""
+
+name = input('Enter your name')
+house_num = input('Enter house number')
+flat_name = input('Enter your flat name')
+city_name = input('Enter your city name')
+print('My name is ',name)
+print(house_num, ' is my house number')
+print('I live in ',flat_name,'flats in ',city_name)

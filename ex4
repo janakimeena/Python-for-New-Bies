@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Nov 11 21:16:17 2021
+
+@author: janaki
+"""
+
+a = int(input('Enter numerator'))
+b = int(input('Enter denominator'))
+c = a/b
+print('the result is' ,format(c,'.2f'))
